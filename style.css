@@ -1,0 +1,115 @@
+
+#sign-up{
+    background-color:#7AA7CA;
+    border-color:#7AA7CA;
+}
+#link-1{
+    color:black;
+}
+#link-2{
+    color:black;
+}
+#link-3{
+    color:black;
+}
+#link-1:hover{
+    background-color:#F1F2F4;
+
+}
+#link-2:hover{
+    background-color:#F1F2F4;
+}
+#link-3:hover{
+    background-color:#F1F2F4;
+}
+#card{
+
+
+    box-shadow:1px 1px 5px rgba(0,0, 0, 0.4);
+
+
+
+} 
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main{
+    margin-top:2%;
+}
+#col-3-sidebar{
+   
+    overflow-y:scroll;
+
+}
+#blog-row-12{
+   background-color:#FBF3D5;
+   height:40px;
+}
+#blog-row-12-1{
+   background-color:#FDF7E2;
+  
+}
+#blog-row-12-2{
+     background-color:#FDF7E2;
+   height:40px;
+}
+#blog-row-12-3{
+   background-color:#FDF7E2;
+}
+#top-bar-fixed{
+ position: fixed;
+
+}
+#new-blog-row-2{
+   height:50px;
+   background-color:#FBF3D5;
+   
+   
+   
+}
+#new-blog-row-12{
+   
+   background-color:#FDF7E2;
+   
+}
+#side-blog-2{
+     box-shadow:1px 1px 5px rgba(0,0, 0, 0.4);
+
+}
+#card-finder-tag{
+      box-shadow:1px 1px 5px rgba(0,0, 0, 0.4);
+      height:100px;
+
+}
+#card-finder-tag1{
+      box-shadow:1px 1px 5px rgba(0,0, 0, 0.4);
+      height:250px;
+      margin-top:20px;
+
+}
+#card-finder-tag2{
+      box-shadow:1px 1px 5px rgba(0,0, 0, 0.4);
+      height:250px;
+      margin-top:20px;
+      margin-bottom: auto;
+
+}
+
+#card-for-question{
+     box-shadow:1px 1px 5px rgba(0,0, 0, 0.4);
+    
+
+}
+#card-Draft{
+     box-shadow:1px 1px 0px rgba(0,0, 0, 0.1);
+     margin-left:20px;
+     height:275px;
+}
+
+
+
+
+
+
+
